@@ -14,7 +14,7 @@ Install dependencies using composer: composer install.
 Start the development server: php artisan serve.
 
 Usage
-To use the chatbot, simply visit the application in your web browser and start typing your query in the chatbox. The chatbot will use its AI algorithms to understand your query and provide a response.
+To use the chatbot, simply visit the welcome page in your laravel application in your web browser and start typing your query in the chatbox. The chatbot will use its AI algorithms to understand your query and provide a response.
 
 Credits
-This application was developed by https://github.com/Programmer-Salam/. Feel free to use and modify it as per your requirements.
+This application was developed by Programmer-Salam[ME]. Feel free to use and modify it as per your requirements.
