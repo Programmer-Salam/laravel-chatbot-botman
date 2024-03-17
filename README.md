@@ -1,4 +1,4 @@
-# Laravel AI Chatbot
+# laravel-chatbot-botman
 This is a simple AI chatbot application built with Laravel, designed to provide automated responses to user inputs. The application uses natural language processing and machine learning algorithms to understand user queries and provide appropriate responses.
 
 Requirements
